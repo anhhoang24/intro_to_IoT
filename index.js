@@ -75,3 +75,4 @@ var soundChart = new Chart(soundCtx, {
         responsive: false
     }
 });
+
